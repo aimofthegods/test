@@ -1,0 +1,1 @@
+<script src="https://whop-snippet-universal.pages.dev/snippetScript.js"></script>
